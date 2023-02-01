@@ -1,4 +1,4 @@
-# Python :snake:
-### A repository for my journey though Python3
+# My Programming Journey!
+### The complete collection of my programming journey from beginning to end
 
-:star2: https://github.com/pequett/Python :star2:
+:star2: https://github.com/pequett/Programming :star2:
